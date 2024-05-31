@@ -7,6 +7,7 @@ The application consists of a backend database and a frontend. For the backend, 
 ## Instalación
 
 (As prerequisites we have to have minikube installed on our machine)
+
 First we have to clone the repository.
 
 ```bash
