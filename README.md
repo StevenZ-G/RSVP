@@ -12,7 +12,7 @@ First we have to clone the repository.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/StevenZ-G/RSVP.git
 ```
 
 After cloning the repository, it is time to run the following commands to create our app.
